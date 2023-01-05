@@ -14,7 +14,7 @@ const data = {
     },
     {
       name: 'تیشرت 1',
-      slug: 't-shirt-1',
+      slug: 't-shirt-2',
       category: 'Tshirt',
       image: '/img/tshirt1.jpg',
       price: 300000,
@@ -26,7 +26,7 @@ const data = {
     },
     {
       name: 'تیشرت 1',
-      slug: 't-shirt-1',
+      slug: 't-shirt-3',
       category: 'Tshirt',
       image: '/img/tshirt1.jpg',
       price: 300000,
